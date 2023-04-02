@@ -1,0 +1,33 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1" tvg-name="Canal RT español"
+
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="Simsomp 24/7"
+
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpgFFbyNGnE1qeNvuiSqtpR4RIHBtAE7dX9rAgTGA5Y23UXoB1uWo4uFYQxyb_iuTKEtO41LTXBVdumWO25sFNp9DsaUfOB5nA2y5kCwuwAuFCyZ5s5HJq21i9KXY_PjCydtGMs4gg2xHHnQvxc3vgsX_6eJ0b5YpMUuLfLbyWjloJrRy5mjw0enlq9fBO0j5WTfke3poJ5LqNzL36FQKCEZt7VP8L6ujr8oXB1LUddp3cOXVtZB0bu-Ikk20ybSvnmOBA7eDMyP_lmq8NFZ9SUlNRxietlAf3iTCh42SZ2xExMoO9TDNtqLtorC3rk0VwgaA_ZsQQjjmixlrpCDd_TCqhiiFq6hIe5fe0ntO1c4ixLFBImCOmOERZ76DBg7uzfk6ezvGJrZl5KfTqiX4TYNUxRQ9mK2EyQ8LPJqUk_FWnOqt7kbO7EikJCgV8cYC2ACS1ow2c6zGB4vUrnFt9jhI4X8FI6dLF_xbPimLH8UM8GzYRAospqx06g42VPRXsJ35o9krxccqPDRJenPmdKAHv7RVG_ekpboO6eXhSujpU8jRb-pxve6VRk3AM4ERQkH-hUYBWbyREhulvm6I-k12svK9aOeylYvVIyxMqiuCKEhJF3Y0tbJsY3AZkUDVo2jM-rGTdXJNLmUO4XOlncvGZnp5UBFSCx-geRF3cNMqbkkHiQf8tUKSHoUzLFllVh9jgkfZuC63mvUnKHKSeWrlcIQj098ac95LrMBDPPIuecR2MAUR3F2muKe_terrdGTWonNJCViCRw2-qdkeseru3V4fdOjEboaCzAD4gnfaDmvSHKXqM0xCEEpVdlDSg9EGEHm0OTYq1jIvAQWMaZ4srGLoH_qfVLT06xI5oVYyW1NaRm8qTGJ6RoMGtlLBMvSOjOKuChbIAEqCXVzLWVhc3QtMTDSBA.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="DW Español"
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="HBO Series"
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpMF8iw3nN4uyK9RdygLyoqIC4ieQBTKf4I_9aQRtPtSIfLecH0fifl-aI6B21sqSBb7cAjam4OIbyHm-F7Y9ImXR3711ZUvZzSe9bEpj-cTbTaTKcDhm1FzSO9XnbhqCcI_C0qLaJPFnRfsofVmp3qgkO5ajGF5oQ-VVUQYzeLQrQUo1Q2u34NYl5l1xvGWMUJ7bU34dm7ol2wxFl32mE3kJblG9uPnnFdaQkrRw654gv1wpc5VaWpmG4Hqt_G1wm9i5SZnV846K8YMcrv5npzZA74h1qwNsc4V1w3in3gKxjtsu8AddU2yUhq8ocuUYC9rB0oc6tuq7XXQ_GddKRDNPGDSNmfW7qPByVlaVzbTEcjbcMTtet5XfTSLsLCdnKwetI5Zynebbya5ymVZfsbfDCmtz633ssyOzM2QIuT8OBu3dC8llGmpyShiyc5kpCWDUvOUZUikhLcfX0H4qMKVuPQQm9cdRq-Jk2Uhu6Bey8zXdnwO5jOjqK_3D8lRaKUodqMRmgwqqtUqOm9A9sEWNfR9XxpPnln4uDGCM0puN-SmB2wZmgEPI-G6deEfUC7vn5cof6A9b2wC4HwYjVJSSubf9WU8u3qUyZj-LD_mtXRU5haaYmOk05gnvQ5PYjjGUsVMarMwVz3HbOcIAGeX4XmnFCedvYpZIa_LW8xf0Vgn1KyHi_eF7cAH3YFik7PoCUgXNXq4H_GLW-cm41bVxFIfuel2ymaRtpfBRaxy4wt2czRPxt3ophKvHuQl3Z9vGOjyNcwujzbbT1BEHjVcP8brl2u2CSKQerJvmiglmOIsxwTvoVsroOhX9PAl5P9Kk83u8L7NEZJBjTI9k1zb-NsrVUWzOadcdnGBbYxi6fSbwKIaDOBICCsebQ22MAg8ESABKglldS13ZXN0LTIwnQY.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="Latina"
+https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8?uid=K61ULa6Er2aVorkTljmgLQTfVXyn5O2f&sid=UswQI9fCw9lImbZkFw2ZZO8BzLAAtPq1&pid=59RJL8V0aC0nymGqLaaVYVjPK5KkPyql&an=Media%20Stream%20TV%20en%20vivo&at=web-app&av=v5.2.329&ref=https%3A%2F%2Fwww.latina.pe%2F&res=703x395&without_cookies=false&listenerid=&dnt=true
+
+#EXTINF:-1 tvg-id="6" tvg-name="Cartoon Network"
+https://usher.ttvnw.net/api/channel/hls/113kkctoon.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=1044346&play_session_id=5656db35e82599217cd59c018dccddd9&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=65716387fdb35d747c3613b0bdb53499b1ecab7f&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22113kkctoon%22%2C%22channel_id%22%3A833828528%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22f8d711833d30ba0f%22%2C%22expires%22%3A1680326719%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.42.228.149%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v2&cdm=wv&player_version=1.18.0
+
+#EXTINF:-1 tvg-id="7" tvg-name="Disney"
+https://usher.ttvnw.net/api/channel/hls/2grm120tx.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=6718217&play_session_id=970b4815ab246eaf0592005f2895ec30&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=6ebbc0aac6ee1324e8c2e596da1d5d2a2b089685&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%222grm120tx%22%2C%22channel_id%22%3A804308508%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22f8d711833d30ba0f%22%2C%22expires%22%3A1680326813%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.42.228.149%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v2&cdm=wv&player_version=1.18.0
+
+#EXTINF:-1 tvg-id="8" tvg-name="Contacto Deportivo" tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png", Contacto Deportivo | PE
+https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="9" tvg-name="America TV"
+https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=K61ULa6Er2aVorkTljmgLQTfVXyn5O2f&sid=BrHCNt8IjHD8dbNO44D63oFghWu4odnr&pid=Ii3hQ9wQ3bAIsv3BiaajCHkrvjR9D4iO&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=6NJwCB0tDC54yAl4ZZlwv7q4FtMNMC6phXYeZ2VhpGzkZ1fghtWOeXghuU43JtDlR9bDkr9rGym&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1680490502954&ot=lBCw3pt_mwVw2AmCPmvxvQ&proto=https&pz=us
+
+#EXTINF:-1 tvg-id="10" tvg-name="Exitosa TV"
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
